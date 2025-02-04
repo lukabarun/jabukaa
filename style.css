@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center; /* Horizontalno centriranje */
+    align-items: center;     /* Vertikalno centriranje */
+    height: 100vh;           /* Postavljanje visine ekrana */
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif; /* Primena Libre Baskerville fonta */
+    font-size: 3em; /* Velika veličina fonta */
+    text-transform: uppercase; /* Svi karakteri u velika slova */
+    margin-bottom: 20px; /* Razmak ispod h1 */
+    color: white;
+    text-align: center;
+}
+
+p {
+    
+font-size: 1.2em;
+color: white;
+text-align: center;
+    
+}
